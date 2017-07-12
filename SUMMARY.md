@@ -6,6 +6,7 @@
   * [每日生成一个文件](/shell/shell_touchfile_everyday.md)
   * [统计日志](/shell/shell_Log_statistics.md)
   * [grep命令的-P选项](/shell/shell_grep-p.md)
+  * [统计内存使用](/shell/shell_Memory_usage.md)
 
 
 
