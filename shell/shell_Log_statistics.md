@@ -11,6 +11,8 @@
 
 要求： 统计出每个IP的访问量有多少？
 
+---
+
 ```bash
 awk '{print $1}' 1.log |sort -n|uniq -c |sort -n}' 1.log |sort -n|uniq -c |sort -n
 ```
