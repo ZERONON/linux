@@ -4,9 +4,9 @@
 
 提示：
 
-1. 你可以使用ping命令   ping -c10 123.23.11.21
+1. 你可以使用ping命令   ping -c10 123.23.11.21
 
-2. 发邮件脚本可以参考 https://coding.net/u/aminglinux/p/aminglinux-book/git/blob/master/D22Z/mail.py
+2. 发邮件脚本可以参考 [https://coding.net/u/aminglinux/p/aminglinux-book/git/blob/master/D22Z/mail.py](https://coding.net/u/aminglinux/p/aminglinux-book/git/blob/master/D22Z/mail.py)
 
 3. 脚本可以搞成死循环，每隔30s检测一次
 
