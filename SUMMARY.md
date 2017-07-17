@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [网络基础就这么多](/Network_foundation.md)
 * [安装PURE-FTP](/fure_ftp.md)
-* [nginx代理](/Nginx_proxy_domain.md)
+* [NGINX代理](/Nginx_proxy_domain.md)
 
 * [SHELL脚本](shell.md)
 
