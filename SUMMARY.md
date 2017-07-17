@@ -5,6 +5,8 @@
 * [安装PURE-FTP](/fure_ftp.md)
 * [NGINX代理](/Nginx_proxy_domain.md)
 
+* [NFS客户端创建文件属主显示nobody](/nfs_touchfile_nobody.md)
+
 * [SHELL脚本](shell.md)
 
   * [脚本中source、exec、fork区别](/shell/shell_source_exec_fork.md)
