@@ -9,7 +9,9 @@
   * [grep命令的-P选项](/shell/shell_grep-p.md)
   * [统计内存使用](/shell/shell_Memory_usage.md)
   * [设计监控脚本](/shell/shell_ monitor.md)
-  * 
+  * [批量更改文件名](/shell/shell_change_filename.md)
+
+  * [监控80端口](/shell/shell_monitor_port80.md)
 
 
 
