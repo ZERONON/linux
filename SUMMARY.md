@@ -17,5 +17,7 @@
 
   * [备份数据库](/shell/backup_DB.md)
 
+  * [重启php-fpm（502）](/shell/restart_nginx_502.md)
+
 
 
