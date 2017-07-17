@@ -29,7 +29,7 @@ LimitRecursion              3136 8//最多显示3136个文件，最深8层目录
 AnonymousCanCreateDirs      no//是否允许匿名用户创建目录
 MaxLoad                     4//最多可下载的数量
 AntiWarez                   yes
-Umask                       133:022//问价和目录的umask
+Umask                       133:022//文件和目录的umask
 MinUID                      100//用户ID至少要大于100才能登陆
 AllowUserFXP                no//是否允许用户使用FXP协议
 AllowAnonymousFXP           no//是否允许匿名用户使用FXP协议
